@@ -2,8 +2,6 @@
 
 .wrapper {
     overflow: hidden;
-
-
     .container {
         position: relative;
         z-index: 1;
@@ -65,7 +63,7 @@
             position: absolute;
             bottom: -2rem;
             margin: auto;
-            background-image: url("../abcd.png");
+            // background-image: url("../abcd.png");
             background-repeat: no-repeat;
             background-size: 23rem;
             left: 33%;
@@ -84,9 +82,9 @@
                 display: none;
             }
             position: absolute;
-            top: 50%;
+            top: 75%;
             left: 0;
-            color: orange;
+            color: #D09683;
         }
     }
 }

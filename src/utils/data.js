@@ -29,26 +29,27 @@ export const AboutMe = [
 ];
 
 export const workExp = [
-  {
-    place: "LetsGrowMore",
-    tenure: "Aug 2023 - July 2023",
-    role: "Web_dev Intern",
-    detail:
-      "Applying my learned skills of web dev on projects given to me", },
-  {
+   {
     place: "HUGG.CO.IN",
     tenure: "June 2023 - July 2023",
-    role: "Web_Dev Intern",
+    role: "Frontend Developer",
     detail:
-      "Learned and Implemented website designing",
+      "I designed and build user interfaces for a mental health organization's website, ensuring a welcoming and accessible digital experience , Continuously learn and grow in the field of web development while maintaining high coding standards to contribute effectively to the organization's mission.",
     },
   {
     place: "IEEE SB NITP",
-    tenure: "July 2021 - Present",
-    role: "Chair-Person",
-    detail:
-      "Worked as Management Team member and tressurer",  
+    tenure: "July 2023 - Present",
+    role: "Chairperson",
+    detail: 
+     "Visionary leader of IEEE Student Branch,coordinating technical , workshops & seminars,Collaborate with team, manage budgets, and represent the branch at IEEE meetings,Foster academic engagement, professional development, and membership growth.",  
     },
+    {
+      place: "IEEE SB NITP",
+      tenure: "July 2022 - July 2023",
+      role: "Treasurer",
+      detail:
+        " Treasurer overseeing budget allocation and financial management,Collaborate with Chairperson and executive team to plan and execute events,Ensure compliance with financial regulations and maintain transparent financial records.",  
+      },
 ];
 
 export const comments = [

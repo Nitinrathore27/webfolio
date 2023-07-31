@@ -27,14 +27,13 @@ const Footer = () => {
 
         <div className={css.right}>
           <div className={css.info}>
-            <span className="secondaryText">Information</span>
-            <p>Nit Patna, Bihar, India</p>
+            <span className="secondaryText">Let's Connect</span>
+            {/* <p>Nit Patna, Bihar, India</p> */}
           </div>
           <ul className={css.menu}>
-            <li>Services</li>
-            <li>Works</li>
-            <li>Notes</li>
-            <li>Experience</li>
+            <li ><a href="https://www.linkedin.com/in/nitin-rathore-253296200/">LINKEDIN</a></li>
+            <li ><a href="https://instagram.com/__nit_in?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D">INSTAGRAM</a></li>
+            <li ><a href="https://www.facebook.com/nitin.rathore.12576">FACEBOOK</a></li>
           </ul>
         </div>
       </motion.div>

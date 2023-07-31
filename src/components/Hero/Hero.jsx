@@ -40,9 +40,7 @@ const Hero = () => {
           <motion.div variants={fadeIn("right", "tween", 0.3, 1)} className={css.experience}>
             {/* <div className="primaryText">4th</div> */}
             <div className="secondaryText">
-              Final Year
-              <br/>
-              Btech
+              Final Year Undergrad
             </div>
           </motion.div>
 
