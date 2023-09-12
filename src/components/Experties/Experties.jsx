@@ -27,11 +27,11 @@ const Experties = () => {
 
                 <div className={`flexCenter ${css.stats}`}>
                     <div className={`flexCenter ${css.stat}`}>
-                        <span className='primaryText'>1500+</span>
+                        <span className='primaryText'>2000+</span>
                         <span className='secondaryText'>Linkdin Connections</span>
                     </div>
                     <div className={`flexCenter ${css.stat}`}>
-                        <span className='primaryText'>600+</span>
+                        <span className='primaryText'>700+</span>
                         <span className='secondaryText'>Solved Problems</span>
                     </div>
                 </div>

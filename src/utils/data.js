@@ -48,7 +48,7 @@ export const workExp = [
       tenure: "July 2022 - July 2023",
       role: "Treasurer",
       detail:
-        " Treasurer overseeing budget allocation and financial management,Collaborate with Chairperson and executive team to plan and execute events,Ensure compliance with financial regulations and maintain transparent financial records.",  
+        "Overseen budget allocation and financial management,Collaborate with Chairperson and executive team to plan and execute events,Ensure compliance with financial regulations and maintain transparent financial records.",  
       },
 ];
 
