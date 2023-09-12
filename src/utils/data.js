@@ -25,7 +25,7 @@ export const projectExperience = [
 export const AboutMe = [
 "I am Nitin Rathore, Btech final year student at NIT Patna ECE Department. I was born and raised up in Kota, Rajasthan",
 "I am a person who belives in the importance of technological advancement and software revolutions",
-"I have deep intrest in Problem Solving & Web Development" 
+"I have deep interests in Problem Solving & Web Development" 
 ];
 
 export const workExp = [
