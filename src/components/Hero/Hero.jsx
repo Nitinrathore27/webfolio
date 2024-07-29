@@ -13,15 +13,21 @@ const Hero = () => {
         className={`innerWidth ${css.container}`}
       >
         <div className={css.upperElements}>
-          <motion.span className="primaryText" variants={fadeIn("right", "tween", 0.2, 1)}>
+          <motion.span
+            className="primaryText"
+            variants={fadeIn("right", "tween", 0.2, 1)}
+          >
             Hey There,
             <br />
             I'm Nitin.
           </motion.span>
-          <motion.span className="secondaryText"variants={fadeIn("left", "tween", 0.4, 1)}>
-            I design beautiful simple
+          <motion.span
+            className="secondaryText"
+            variants={fadeIn("left", "tween", 0.4, 1)}
+          >
+            Crafting websites is my passion,
             <br />
-            things, And I love what i do{" "}
+            where code meets creativity.
           </motion.span>
         </div>
 
@@ -29,7 +35,11 @@ const Hero = () => {
           variants={fadeIn("up", "tween", 0.3, 1)}
           className={css.person}
         >
-          <motion.img variants={slideIn("up", "tween", 0.5, 1.3)} src="./person.png" alt="" />
+          <motion.img
+            variants={slideIn("up", "tween", 0.5, 1.3)}
+            src="./person.png"
+            alt=""
+          />
         </motion.div>
 
         <a className={css.email} href="mailto:aahara.nitin.27@gmail.com">
@@ -37,17 +47,12 @@ const Hero = () => {
         </a>
 
         <div className={css.lowerElements}>
-          <motion.div variants={fadeIn("right", "tween", 0.3, 1)} className={css.experience}>
+          <motion.div
+            variants={fadeIn("right", "tween", 0.3, 1)}
+            className={css.experience}
+          >
             {/* <div className="primaryText">4th</div> */}
-            <div className="secondaryText">
-              Final Year Undergrad
-            </div>
-          </motion.div>
-
-          <motion.div variants={fadeIn("left", "tween", 0.5, 1)} className={css.certificate}>
-            <img src="./certificate.png" alt="" />
-            <span>College Student</span>
-            <span>Web DESIGNER</span>
+            <div className="secondaryText">B.Tech Fresher</div>
           </motion.div>
         </div>
       </motion.div>
