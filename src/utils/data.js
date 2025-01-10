@@ -4,7 +4,7 @@ import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
     name: "Website Design",
-    projects: 8,
+    projects: 12,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
@@ -29,6 +29,13 @@ export const AboutMe = [
 ];
 
 export const workExp = [
+  {
+    place: "Larsen & Toubro PES",
+    tenure: "July 2024 - Oct 2024",
+    role: "Graduate Engineer Trainee",
+    detail:
+      "I learned about the design and manufacturing processes of defense projects, covering project management, CRM tools, testing, and building. I gained hands-on experience in 3D modeling, Python, AI-ML, IoT, and using Power BI for data visualization.",
+  },
   {
     place: "Bosscoder Academy",
     tenure: "March 2024 - June 2024",
